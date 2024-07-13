@@ -92,7 +92,7 @@ body {
   z-index: 2;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 480px) {
   .envelope {
     width: 90vw;
     height: 70vh;
